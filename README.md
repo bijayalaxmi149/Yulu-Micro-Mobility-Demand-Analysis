@@ -1,1 +1,2 @@
 # Yulu-Micro-Mobility-Demand-Analysis
+Explore the Yulu Case Study project where I delve into factors affecting demand for shared electric cycles in the Indian market. From extensive exploratory data analysis to hypothesis testing, uncover insights on variables like weather, season, and working day impacting cycle rentals. Check out the detailed analysis, hypothesis formulation, and conclusions drawn from statistical tests. Dive in to see how data-driven insights can drive decisions in micro-mobility services! 🚲📊 #Yulu #DataAnalysis #HypothesisTesting #MicroMobility
